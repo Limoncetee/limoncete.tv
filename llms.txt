@@ -1,0 +1,93 @@
+# Limoncete
+
+> Limoncete — streamer argentino de CS2, FACEIT nivel 10. Tutoriales, lineups y tips para llegar a nivel 10.
+
+Limoncete es un creador de contenido argentino de Counter-Strike 2 y jugador FACEIT nivel 10. Publica tutoriales, lineups de utilidad (smokes, flashes, molotovs) y consejos para que cualquier jugador suba de nivel. Hace streams en Kick, tiene una comunidad en Discord y una guía para llegar a nivel 10 en su web.
+
+- Nombre real: Nahuel
+- País: Argentina
+- Juego: Counter-Strike 2 (CS2)
+- Nivel: FACEIT nivel 10
+- Idioma del contenido: español (Argentina)
+
+## Redes oficiales
+- Instagram: https://www.instagram.com/limoncete.tv/
+- TikTok: https://www.tiktok.com/@limoncete.tv
+- Kick: https://kick.com/limoncetee
+- YouTube: https://www.youtube.com/@limoncetee
+- Discord: https://discord.gg/jButpEaaqe
+- FACEIT: https://www.faceit.com/es/players/Limoncete
+
+## Páginas principales
+- [Inicio](https://limoncete.tv/): quién es Limoncete y sus redes.
+- [Sobre mí](https://limoncete.tv/sobre-mi/): historia, contenido, streams y contacto.
+- [Guía para llegar a nivel 10 de FACEIT](https://limoncete.tv/guia-nivel-10/): ruta en tres etapas, objetivo 2001+ de Elo.
+- [Lineups por mapa](https://limoncete.tv/mapas/): smokes, flashes, molotovs, detos y tips.
+- [Todos los videos](https://limoncete.tv/videos/)
+- [Preguntas frecuentes](https://limoncete.tv/preguntas-frecuentes/)
+- [Streams en Kick](https://limoncete.tv/streams/)
+- [Config de CS2](https://limoncete.tv/config/): mira, sensibilidad, resolución, binds y periféricos.
+
+## Guía para llegar a nivel 10
+¿Querés llegar a Level 10? No necesitás aprender todo de golpe. La idea es ir trabajando lo que realmente necesitás según tu nivel.
+- [Level 1–5 · Fundamentos](https://limoncete.tv/guia-nivel-10/level-1-5/): Fundamentos: aim, movimiento, crosshair placement, economía, posiciones y utilidad básica.
+- [Level 6–8 · Juego y toma de decisiones](https://limoncete.tv/guia-nivel-10/level-6-8/): Gamesense: decisiones, timings, trades, rotaciones, adaptación y utilidad avanzada.
+- [Level 9 · Consistencia y profundidad](https://limoncete.tv/guia-nivel-10/level-9/): Pulir errores: consistencia, decisiones bajo presión, adaptación y pequeños detalles que te separan de Level 10.
+
+## Mapas
+- [Mirage en CS2](https://limoncete.tv/mapas/mirage/): Cómo tirar la flash a liga en Mirage como un level 10, Referencia para matar al AWP que se para en el banco de ventana en Mirage, Cómo rushear palacio en Mirage sin morir en el intento, Mi ronda pistol favorita de TT en Mirage
+- [Dust2 en CS2](https://limoncete.tv/mapas/dust2/): Cómo rushear medio en Dust2: tutorial de utilidad, No pushees baranda solo en Dust2, Flashes para Dust2, Default básico de CT en Dust2
+- [Nuke en CS2](https://limoncete.tv/mapas/nuke/): Micro antirush de CT en Nuke, Lo mínimo para jugar CT en Nuke, Cómo tirar la pared de smokes en afuera de Nuke, Flash para el retake de A en Nuke
+- [Anubis en CS2](https://limoncete.tv/mapas/anubis/): Flash support y autoflash para medio en Anubis, Cómo bajar a aguas de Anubis sin hacer ruido, Kit buraco paso a paso en Anubis, Combo para entrar a B de Anubis por el hueco nuevo desde ratas
+- [Inferno en CS2](https://limoncete.tv/mapas/inferno/): Cómo jugar B de Inferno de CT para que no te pasen, Execute rápido y fácil en Inferno, Default básico de TT en Inferno (tip 25), Antirush de banana en Inferno
+- [Ancient en CS2](https://limoncete.tv/mapas/ancient/): Kit de baranda para frenar el rush de oscuro en Ancient, Kit de medio en Ancient: molo a baranda, deto y pop flash
+
+## Videos explicados
+- [Smoke de palacio desde triple CT en Mirage (CS2)](https://limoncete.tv/videos/smoke-de-palacio-desde-triple-ct-en-mirage/): Es el único humo a palacio que tenés que saber siendo el jugador de A de CT: lo tirás sin asomarte, sin que te meta una el AWP y sin ir hasta arena, donde te escuchan.
+- [Smoke lurker a tapete en Mirage (CS2)](https://limoncete.tv/videos/smoke-lurker-a-tapete-en-mirage/): Smoke a tapete en Mirage para jugar de lurker: te muestro cómo tirarla desde el lado T para tapar la visión de tapete y moverte sin que te vean.
+- [Las 3 smokes que tenés que tirar en B de Mirage (CS2)](https://limoncete.tv/videos/las-3-smokes-que-tenes-que-tirar-en-b-de-mirage/): Las 3 smokes básicas para entrar a B de Mirage del lado T: los humos que tenés que saber sí o sí para ejecutar B.
+- [Todas las smokes a ventana desde respawn en Mirage (CS2)](https://limoncete.tv/videos/todas-las-smokes-a-ventana-desde-respawn-en-mirage/): Todas las smokes a ventana desde el respawn de TT en Mirage: las formas de tapar ventana apenas arranca la ronda para pelear medio.
+- [Molotov a carroza con ventana smokeada en Mirage (CS2)](https://limoncete.tv/videos/molotov-a-carroza-con-ventana-smokeada-en-mirage/): Molotov a carroza en Mirage cuando ya tenés ventana smokeada: cómo sacar al CT que se esconde en carroza para tomar medio.
+- [Molotov a L desde top mid en Mirage (CS2)](https://limoncete.tv/videos/molotov-a-l-desde-top-mid-en-mirage/): Molotov a L (arriba del cartel) desde top mid en Mirage: cómo quemar esa posición para seguir avanzando por medio.
+- [5 flashes para suportear en Mirage (CS2)](https://limoncete.tv/videos/5-flashes-para-suportear-en-mirage/): 5 flashes para suportear a tu compañero en Mirage: flashes que lo ayudan a entrar o asomar sin cegarlo a él.
+- [4 detos para reventar la smoke de ventana en Mirage (CS2)](https://limoncete.tv/videos/4-detos-para-reventar-la-smoke-de-ventana-en-mirage/): 4 detos (HE) para reventar la smoke de ventana en Mirage: en CS2 una HE abre el humo por un momento y podés ver o tirar a través.
+- [Doble silent drop en Mirage: de L a ventana y de ventana a ratas (CS2)](https://limoncete.tv/videos/doble-silent-drop-en-mirage-de-l-a-ventana-y-de-ventana-a-ratas/): Bajar en silencio de L a ventana y de ventana a ratas para sorprender al rival sin que te escuche.
+- [Default de Mirage lado T para todos los levels (CS2)](https://limoncete.tv/videos/default-de-mirage-lado-t-para-todos-los-levels/): El default de Mirage de T que hasta los niveles 10 de FACEIT hacen mal: uno para A, tres para medio y uno para B.
+- [Tips para jugar lurker en A de Mirage (CS2)](https://limoncete.tv/videos/tips-para-jugar-lurker-en-a-de-mirage/): Todo lo que podés hacer siendo el lurker de A mientras tus compañeros hacen el 1-3-1 (tres medio y uno tapete).
+- [Posicionamiento en el site A de Mirage (CS2)](https://limoncete.tv/videos/posicionamiento-en-el-site-a-de-mirage/): Posicionamiento en el site A de Mirage del lado CT: dónde pararte para defender A sin regalarte (tip 31 de mis 100 tips).
+- [3 autoflashes en Dust2 (CS2)](https://limoncete.tv/videos/3-autoflashes-en-dust2/): 3 autoflashes en Dust2: flashes que tirás vos mismo para asomar con ventaja sin necesitar a un compañero.
+- [3 flashes perfectas en Dust2 (CS2)](https://limoncete.tv/videos/3-flashes-perfectas-en-dust2/): 3 flashes perfectas en Dust2: flashes fáciles de aprender que te sirven en cualquier partida.
+- [Cómo flashear B en Dust2 sin flashear como un bot (CS2)](https://limoncete.tv/videos/como-flashear-b-en-dust2-sin-flashear-como-un-bot/): Cómo flashear B en Dust2 sin flashear como un bot: la flash para entrar a B sin cegar a tu equipo y dejando ciegos a los CT.
+- [Flashbang a mid perfecta en Dust2 (CS2)](https://limoncete.tv/videos/flashbang-a-mid-perfecta-en-dust2/): Flashbang a mid perfecta en Dust2: la flash para pelear medio con ventaja.
+- [Flashes para suportear en Dust2 (CS2)](https://limoncete.tv/videos/flashes-para-suportear-en-dust2/): Tres flashes para soportear a tu compañero de T en Dust2: una para retomar fondo y dos para baranda. Con la de baranda, tu compañero se hace 2 o 3 kills casi siempre.
+- [Flash antirush de fondo con smoke en Dust2 (CS2)](https://limoncete.tv/videos/flash-antirush-de-fondo-con-smoke-en-dust2/): Una flash para habilitar a tus compañeros cuando les están corriendo fondo: se pueden abrir por arriba y por abajo, por adelante del humo, y los T quedan todos blancos.
+- [5 flashes insanas en Dust2 (CS2)](https://limoncete.tv/videos/5-flashes-insanas-en-dust2/): 5 flashes insanas en Dust2: flashes menos conocidas para sorprender a los CT.
+- [5 flashes tiktokeras en Dust2 (CS2)](https://limoncete.tv/videos/5-flashes-tiktokeras-en-dust2/): 5 flashes tiktokeras en Dust2: flashes vistosas que además sirven en partida.
+- [La flash más rota de Dust2 (CS2)](https://limoncete.tv/videos/la-flash-mas-rota-de-dust2/): La flash más rota de Dust2: una flash fácil que deja ciego al rival y te da la ventaja para asomar.
+- [Combo de utilidad para rushear al AWP de mid en Dust2 (CS2)](https://limoncete.tv/videos/combo-de-utilidad-para-rushear-al-awp-de-mid-en-dust2/): Combo de utilidad para rushear al AWP de medio en Dust2: cómo tapar y cegar al AWP para cruzar o pelear medio del lado T.
+- [Combo de utilidad para rushear baranda en Dust2 (CS2)](https://limoncete.tv/videos/combo-de-utilidad-para-rushear-baranda-en-dust2/): Combo de utilidad para rushear baranda en Dust2: las granadas para entrar a baranda en equipo y sin regalarse.
+- [No pushees baranda solo en Dust2 (CS2)](https://limoncete.tv/videos/no-pushees-baranda-solo-en-dust2/): Por qué no tenés que correr baranda solo: es muy cuello de botella para los dos equipos y solo no se gana.
+- [Cómo jugar AWP en medio de Dust2 (CS2)](https://limoncete.tv/videos/como-jugar-awp-en-medio-de-dust2/): Cómo jugar el AWP en medio de Dust2 de CT sin perder la ronda por una kill innecesaria.
+- [Cómo jugar fondo de CT en Dust2 (CS2)](https://limoncete.tv/videos/como-jugar-fondo-de-ct-en-dust2/): El error que todos cometen jugando fondo de CT, no importa el level, y cómo evitarlo.
+- [Qué hacer cuando ya ganaste fondo de TT en Dust2 (CS2)](https://limoncete.tv/videos/que-hacer-cuando-ya-ganaste-fondo-de-tt-en-dust2/): Qué hacer cuando ya ganaste fondo de TT en Dust2: cómo aprovechar el control de long para seguir la ronda (tip 29 de mis 100 tips).
+- [Flash para el retake de A en Nuke (CS2)](https://limoncete.tv/videos/flash-para-el-retake-de-a-en-nuke/): Una flash para el retake del site A de Nuke que los deja a todos blancos para que tu compañero entre y defusee.
+- [Smoke y molo a poti desde metal en Nuke (CS2)](https://limoncete.tv/videos/smoke-y-molo-a-poti-desde-metal-en-nuke/): Smoke y molotov a poti desde metal en Nuke: la utilidad para sacar al CT de poti y entrar a A.
+- [Smokes para pasar secret y dominar afuera en Nuke (CS2)](https://limoncete.tv/videos/smokes-para-pasar-secret-y-dominar-afuera-en-nuke/): Smokes para pasar secret y dominar afuera en Nuke: los humos para cruzar afuera sin que te maten.
+- [Kit buraco paso a paso en Anubis (CS2)](https://limoncete.tv/videos/kit-buraco-paso-a-paso-en-anubis/): Kit buraco paso a paso en Anubis: la utilidad completa para entrar por el buraco del lado T.
+- [Smoke wanwei a cuartito en Anubis (CS2)](https://limoncete.tv/videos/smoke-wanwei-a-cuartito-en-anubis/): Smoke one way (wanwei) a cuartito en Anubis: un humo que te deja ver a vos y tapa al rival.
+- [Combo de molotov y deto para limpiar en Anubis (CS2)](https://limoncete.tv/videos/combo-de-molotov-y-deto-para-limpiar-en-anubis/): Combo de molotov y deto (HE) para limpiar una posición en Anubis: la molo lo saca y la deto lo termina.
+- [Antirush de banana en Inferno (CS2)](https://limoncete.tv/videos/antirush-de-banana-en-inferno/): Qué hacer para que no te rusheen banana fácil y, si te rushean, cómo contrarrestarlo. No es una dominación de banana: es un antirush.
+- [Molotov de redominio en banana en Inferno (CS2)](https://limoncete.tv/videos/molotov-de-redominio-en-banana-en-inferno/): Con un humo y una molo redominás banana y lo dejás al T con dos opciones: o se vuelve o se abre, y tu compañero lo mata.
+- [Kit de medio en Ancient: molo a baranda, deto y pop flash (CS2)](https://limoncete.tv/videos/kit-de-medio-en-ancient-molo-a-baranda-deto-y-pop-flash/): Kit de medio en Ancient: molotov a baranda, deto y pop flash para ganar medio del lado T: el kit para hacer un ace.
+- [Cómo subir y bajar escaleras rápido y sin hacer ruido en CS2](https://limoncete.tv/videos/como-subir-y-bajar-escaleras-rapido-y-sin-hacer-ruido-en-cs2/): Cómo subir y bajar escaleras rápido y sin hacer ruido en CS2: la mecánica de las escaleras para moverte sin que te escuchen.
+- [Recarga silenciosa en CS2: por qué no funciona con 0 balas](https://limoncete.tv/videos/recarga-silenciosa-en-cs2-por-que-no-funciona-con-0-balas/): Un detalle de la recarga silenciosa que casi nadie sabe: con las balas en cero no funciona.
+- [Mi calentamiento con Deagle en CS2](https://limoncete.tv/videos/mi-calentamiento-con-deagle-en-cs2/): Mi calentamiento con Deagle en CS2: el ejercicio que hago antes de jugar para entrar con la mira caliente.
+- [Así piensa un level 10 de FACEIT · Vol. 16: en un 2vs5 (CS2)](https://limoncete.tv/videos/asi-piensa-un-level-10-de-faceit-en-un-2vs5/): Así piensa un level 10 de FACEIT en un 2vs5: una ronda real donde te cuento lo que pensaba en cada momento.
+- [Rutina de aim definitiva para CS2](https://limoncete.tv/videos/rutina-de-aim-definitiva-para-cs2/): Mi rutina de aim definitiva para CS2: los ejercicios que hago para mejorar la puntería.
+- [Rutina de aim de 20 minutos para calentar en CS2: FACEIT Level 1–5](https://limoncete.tv/videos/rutina-de-aim-de-20-minutos-para-calentar-en-cs2-faceit-level-1-5/): Rutina de aim de 20 minutos para calentar en CS2 si estás en FACEIT level 1 a 5.
+- [Rutina de aim de 20 minutos para calentar en CS2: FACEIT Level 6–8](https://limoncete.tv/videos/rutina-de-aim-de-20-minutos-para-calentar-en-cs2-faceit-level-6-8/): Rutina de aim de 20 minutos para calentar en CS2 si estás en FACEIT level 6 a 8.
+- [Rutina de aim para subir a FACEIT Level 10 (CS2)](https://limoncete.tv/videos/rutina-de-aim-para-subir-a-faceit-level-10/): Rutina de aim para subir a FACEIT level 10 en CS2: lo que entreno para dar el salto de level 9 a 10.
+- [Conceptos básicos de CS2 explicados](https://limoncete.tv/videos/conceptos-basicos-de-cs2-explicados/): Conceptos básicos de CS2 explicados: lo primero que tenés que entender para empezar a mejorar.
+- [Tip de economía para subir tu nivel en CS2](https://limoncete.tv/videos/tip-de-economia-para-subir-tu-nivel-en-cs2/): Tip de economía para subir tu nivel en CS2 (tip 30 de mis 100 tips): una decisión de compra que te hace ganar rondas.
+- [Cámara de muerte: tip para mejorar en CS2](https://limoncete.tv/videos/camara-de-muerte-tip-para-mejorar-en-cs2/): Cámara de muerte: cómo usar la repetición de tu muerte en CS2 para entender por qué perdiste el duelo (tip 27 de mis 100 tips).
+- [Hacé lo que yo digo, no lo que yo hago (CS2)](https://limoncete.tv/videos/hace-lo-que-yo-digo-no-lo-que-yo-hago/): Hacé lo que yo digo, no lo que yo hago: un error que cometo yo también y que vos no tenés que repetir en CS2.
